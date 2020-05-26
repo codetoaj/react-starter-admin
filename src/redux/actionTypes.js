@@ -1,0 +1,6 @@
+module.exports = {
+  REQUEST_DOG: 'REQUEST_DOG',
+  RECEIVED_DOG: 'RECEIVED_DOG',
+  ERROR_DOG: 'ERROR_DOG',
+  FETCH_DOG: 'FETCH_DOG'
+}
