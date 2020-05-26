@@ -1,7 +1,7 @@
 {
-  "name": "react-starter",
+  "name": "react-starter-admin",
   "version": "1.0.0",
-  "description": "",
+  "description": "React Starter Admin is ready to use admin template developed with React.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
