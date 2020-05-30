@@ -15,7 +15,8 @@ module.exports = {
   ],
   output: {
     filename: '[name].bundle.js',
-    path: path.resolve(process.cwd(), 'build')
+    path: path.resolve(process.cwd(), 'build'),
+    publicPath: '/'
   },
   module: {
     rules: [
